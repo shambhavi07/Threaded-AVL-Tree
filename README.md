@@ -15,6 +15,6 @@ Threaded AVL: alt<KeyT, ValueT>
 
 -operator%() function returns the height stored in the given node
 
-- range_search() function searches theatre for all keys in the range[lower..upper], keys are returned in a vector and if no keys are found then empty vector is returned
+-range_search() function searches theatre for all keys in the range[lower..upper], keys are returned in a vector and if no keys are found then empty vector is returned
 
 -dump() function dumps the content of the tree to output stream, using a recursive inorder traversal
